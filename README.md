@@ -116,7 +116,7 @@ node .
 
 
 ## For Replit
-[![Run on Repl.it](https://repl.it/badge/github/zevoffc/nayla)](https://repl.it/github/zevoffc/nayla)
+[![Run on Repl.it](https://repl.it/badge/zulfikar-bot/nayla)](https://repl.it/github/zulfikar-bot/nayla)
 
 * klik button
 * buka console
